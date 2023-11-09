@@ -13,11 +13,24 @@
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
-## Overview
+## Overview!
+
+![Jate1](https://github.com/Punk1776/txt-ed/assets/135387049/3d4839c2-a25b-48ce-9d1f-02aae6530ab8)
+
+![Jate2](https://github.com/Punk1776/txt-ed/assets/135387049/ebf1165d-9bf8-4716-a4cf-bb95ad667c95)
+
+![jate3](https://github.com/Punk1776/txt-ed/assets/135387049/1b71c879-0a3d-495c-b045-f37637b11c65)
+
+![jate4](https://github.com/Punk1776/txt-ed/assets/135387049/44441285-9fa1-4be6-a65d-6981c15deb54)
+
+
+
+
+
 
 The Text Editor Web Application, often referred to as "Just Another Text Editor" (J.A.T.E), is a powerful and versatile web-based text editor that allows you to create, edit, save, and manage text content with ease. It is designed to offer a seamless experience with features like IndexedDB integration, service workers, and Next-Gen JavaScript for efficient text editing and storage.
 
-![Just Another Text Editor](screenshot.png)
+
 
 ## Features
 
